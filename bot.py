@@ -39,10 +39,10 @@ class Dormint:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}Auto Claim {Fore.BLUE + Style.BRIGHT}Dormint - BOT
+        {Fore.GREEN + Style.BRIGHT}Auto Farm {Fore.BLUE + Style.BRIGHT}Dormint
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.GREEN + Style.BRIGHT}Join Airdrop Bot {Fore.YELLOW + Style.BRIGHT}https://t.me/+CtchJrTcsJgzNTVl
             """
         )
 
