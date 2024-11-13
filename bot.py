@@ -39,10 +39,10 @@ class Dormint:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}Auto Farm {Fore.BLUE + Style.BRIGHT}Dormint
+        {Fore.GREEN + Style.BRIGHT}Auto Farm {Fore.BLUE + Style.BRIGHT}Dormint Bot
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Join Airdrop Bot {Fore.YELLOW + Style.BRIGHT}https://t.me/+CtchJrTcsJgzNTVl
+        {Fore.GREEN + Style.BRIGHT}Join Airdrop Bot Channel {Fore.YELLOW + Style.BRIGHT}https://t.me/+CtchJrTcsJgzNTVl
             """
         )
 
@@ -725,7 +725,8 @@ class Dormint:
                     print(
                         f"{Fore.CYAN+Style.BRIGHT}[ Wait for{Style.RESET_ALL}"
                         f"{Fore.WHITE+Style.BRIGHT} {formatted_time} {Style.RESET_ALL}"
-                        f"{Fore.CYAN+Style.BRIGHT}... ]{Style.RESET_ALL}",
+                        f"{Fore.CYAN+Style.BRIGHT}... ]{Style.RESET_ALL}"
+                        f"{Fore.CYAN+Style.BRIGHT}[ Join https://t.me/+CtchJrTcsJgzNTVl {Style.RESET_ALL}",
                         end="\r"
                     )
                     time.sleep(1)
