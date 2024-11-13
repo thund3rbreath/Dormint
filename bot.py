@@ -726,11 +726,15 @@ class Dormint:
                         f"{Fore.CYAN+Style.BRIGHT}[ Wait for{Style.RESET_ALL}"
                         f"{Fore.WHITE+Style.BRIGHT} {formatted_time} {Style.RESET_ALL}"
                         f"{Fore.CYAN+Style.BRIGHT}... ]{Style.RESET_ALL}"
-                        f"{Fore.CYAN+Style.BRIGHT}[ Join https://t.me/+CtchJrTcsJgzNTVl ] {Style.RESET_ALL}",
-                        end="\r"
-                    )
+                        f"{Fore.MAGENTA+Style.BRIGHT} [ Join https://t.me/+CtchJrTcsJgzNTVl ] {Style.RESET_ALL}",
+                
+                    ) 
                     print(
-                        f"{Fore.CYAN+Style.BRIGHT}[ Join https://t.me/+CtchJrTcsJgzNTVl ] {Style.RESET_ALL}",
+                    )
+
+                    print(
+                        f"{Fore.MAGENTA+Style.BRIGHT} [ Join https://t.me/+CtchJrTcsJgzNTVl ] {Style.RESET_ALL}",
+                        end="\r
                     )
                     time.sleep(1)
                     seconds -= 1
