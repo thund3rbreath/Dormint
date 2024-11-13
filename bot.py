@@ -734,7 +734,7 @@ class Dormint:
 
                     print(
                         f"{Fore.MAGENTA+Style.BRIGHT} [ Join https://t.me/+CtchJrTcsJgzNTVl ] {Style.RESET_ALL}",
-                        end="\r
+                        end="\r"
                     )
                     time.sleep(1)
                     seconds -= 1
